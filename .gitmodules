@@ -79,3 +79,6 @@
 [submodule "zaney"]
 	path = zaney
 	url = https://gitlab.com/Zaney/zaneyos.git
+[submodule "kiara"]
+	path = kiara
+	url = https://codeberg.org/kiara/cfg.git
