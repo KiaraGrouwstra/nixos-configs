@@ -1,0 +1,81 @@
+[submodule "xenoxanite"]
+	path = xenoxanite
+	url = git@github.com:xenoxanite/flakes.git
+[submodule "ambroisie"]
+	path = ambroisie
+	url = https://git.belanyi.fr/ambroisie/nix-config.git
+[submodule "dustinlyons"]
+	path = dustinlyons
+	url = git@github.com:dustinlyons/nixos-config.git
+[submodule "emmet"]
+	path = emmet
+	url = https://gitlab.com/librephoenix/nixos-config.git
+[submodule "end-4"]
+	path = end-4
+	url = git@github.com:end-4/dots-hyprland.git
+[submodule "fufexan"]
+	path = fufexan
+	url = git@github.com:fufexan/dotfiles.git
+[submodule "gvolpe"]
+	path = gvolpe
+	url = git@github.com:gvolpe/nix-config.git
+[submodule "javacafe01"]
+	path = javacafe01
+	url = git@github.com:javacafe01/nix-config.git
+[submodule "jopejoe1"]
+	path = jopejoe1
+	url = git@github.com:jopejoe1/nix-conf.git
+[submodule "kclejeune"]
+	path = kclejeune
+	url = git@github.com:kclejeune/system.git
+[submodule "MatthiasBenaets"]
+	path = MatthiasBenaets
+	url = git@github.com:MatthiasBenaets/nixos-config.git
+[submodule "mic92"]
+	path = mic92
+	url = git@github.com:Mic92/dotfiles.git
+[submodule "mightyiam"]
+	path = mightyiam
+	url = git@github.com:mightyiam/nixconfigs.git
+[submodule "Misterio77"]
+	path = Misterio77
+	url = git@github.com:Misterio77/nix-config.git
+[submodule "mitchellh"]
+	path = mitchellh
+	url = git@github.com:mitchellh/nixos-config.git
+[submodule "ml4w"]
+	path = ml4w
+	url = https://gitlab.com/stephan-raabe/dotfiles.git
+[submodule "notusknot"]
+	path = notusknot
+	url = git@github.com:notusknot/dotfiles-nix.git
+[submodule "oddlama"]
+	path = oddlama
+	url = git@github.com:oddlama/nix-config.git
+[submodule "raito"]
+	path = raito
+	url = git@github.com:RaitoBezarius/nixos-home.git
+[submodule "redyf"]
+	path = redyf
+	url = git@github.com:redyf/nixdots.git
+[submodule "r-vdp"]
+	path = r-vdp
+	url = https://git.sr.ht/~r-vdp/nixos-config
+[submodule "ryantm"]
+	path = ryantm
+	url = git@github.com:ryantm/dotfiles.git
+[submodule "rycee"]
+	path = rycee
+	url = https://git.sr.ht/~rycee/configurations
+[submodule "sodiboo"]
+	path = sodiboo
+	url = git@github.com:sodiboo/nix-config.git
+[submodule "wimpysworld"]
+	path = wimpysworld
+	url = git@github.com:wimpysworld/nix-config.git
+[submodule "xe"]
+	path = xe
+	url = git@github.com:Xe/nixos-configs.git
+[submodule "zaney"]
+	path = zaney
+	url = https://gitlab.com/Zaney/zaneyos.git
