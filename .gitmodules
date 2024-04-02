@@ -82,3 +82,6 @@
 [submodule "kiara"]
 	path = kiara
 	url = https://codeberg.org/kiara/cfg.git
+[submodule "lilyinstarlight"]
+	path = lilyinstarlight
+	url = git@github.com:lilyinstarlight/foosteros.git
