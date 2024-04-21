@@ -82,9 +82,9 @@
 [submodule "kiara"]
 	path = kiara
 	url = https://codeberg.org/kiara/cfg.git
-[submodule "lilyinstarlight"]
-	path = lilyinstarlight
+[submodule "foosteros"]
+	path = foosteros
 	url = git@github.com:lilyinstarlight/foosteros.git
-[submodule "trueNAHO"]
-	path = trueNAHO
+[submodule "os"]
+	path = os
 	url = git@github.com:trueNAHO/os.git
