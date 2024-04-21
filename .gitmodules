@@ -85,3 +85,6 @@
 [submodule "lilyinstarlight"]
 	path = lilyinstarlight
 	url = git@github.com:lilyinstarlight/foosteros.git
+[submodule "trueNAHO"]
+	path = trueNAHO
+	url = git@github.com:trueNAHO/os.git
