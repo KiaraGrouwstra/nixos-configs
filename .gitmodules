@@ -88,3 +88,6 @@
 [submodule "os"]
 	path = os
 	url = git@github.com:trueNAHO/os.git
+[submodule "GradientOS"]
+	path = GradientOS
+	url = git@github.com:Zumorica/GradientOS.git
