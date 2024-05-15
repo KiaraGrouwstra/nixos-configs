@@ -7,6 +7,12 @@ git submodule init
 git submodule update
 ```
 
+## updating
+
+```sh
+git submodule update --recursive --remote
+```
+
 ## adding more
 
 given a directory of configs, print the command to add these like:
